@@ -1,0 +1,1 @@
+var alphaTree={"classhyperthyroid.<=0":{"T3<=2.83":"E[y]:0,  n:864","T3>2.83":{"age<=53.8":{"pregt<=0":"E[y]:0,  n:48","pregt>0":"E[y]:0.091,  n:11"},"age>53.8":{"T4U<=1.008":"E[y]:0.4,  n:10","T4U>1.008":"E[y]:0,  n:13"}}},"classhyperthyroid.>0":"E[y]:1,  n:27"};
